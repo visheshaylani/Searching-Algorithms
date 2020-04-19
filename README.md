@@ -1,5 +1,5 @@
 # Searching-Algorithms
-The following algorithms are been implemented in this file:
+The following algorithms are been implemented in this file: \n
 BFS, UCS, Greedy BFS, and Deepening DFS.
 
 ![map](https://user-images.githubusercontent.com/56055090/79683788-c3f21d00-8245-11ea-8a56-91f5471c6199.png)
